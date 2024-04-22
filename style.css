@@ -6,3 +6,10 @@ html {
 body {
   background-color: whitesmoke;
 }
+
+table, tr, th, td, caption {
+  border: 1px solid darkgrey;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  text-align: center;
+}
